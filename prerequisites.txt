@@ -1,1 +1,1 @@
-sudo apt-get install g++ libtool make automake autoconf pkg-config libdb4.8-dev libdb4.8++-dev qt5-default libboost-dev libboost-all-dev libminiupnpc-dev qttools5-dev-tools libssl1.0-dev libevent-dev libprotobuf-dev libzmq3-dev pivx-core
+sudo apt-get install g++ libtool make automake autoconf pkg-config libdb4.8-dev libdb4.8++-dev qt5-default libboost-dev libboost-all-dev libminiupnpc-dev qttools5-dev-tools libssl1.0-dev libevent-dev libprotobuf-dev libzmq3-dev protobuf-compiler
